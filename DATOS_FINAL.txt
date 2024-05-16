@@ -1,0 +1,4 @@
+Fecha con temperatura máxima: 2024-05-04  -  2200
+Fecha con temperatura mínima: 2024-05-01  -  1500
+VENTAS TOTALES 9200
+promedio de ventas 1840
